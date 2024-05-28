@@ -1,4 +1,4 @@
-# API de Criação de eventos
+# API de Criação de notas de filmes
 
 ## Sobre o Projeto
 
