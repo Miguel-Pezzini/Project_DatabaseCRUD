@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Essa API de criação de notas de filme foi desenvolvida com NodeJS tendo o intuito de melhorar minhas habilidades em Express, Knex, SQLite 
+Essa API de criação de notas de filme foi desenvolvida com NodeJS tendo o intuito de melhorar minhas habilidades em Express, Knex, SQLite, Token JWT e validações
 
 ## 🛠️ Construído com
 
