@@ -11,24 +11,17 @@ Essa API de criação de notas de filme foi desenvolvida com NodeJS tendo o intu
 * [Knex](https://knexjs.org/) - ORM utilizada
 * [SQLite](https://www.sqlite.org/) - Banco de dados usado
 
-
 ## Requisitos funcionais
 
-[x] - O usuário deve poder criar uma nova nota de filme;
-
-[x] - O usuário deve poder obter um resumo da sua nota;
-
-[x] - O usuário deve poder listar todas as notas que ja escreveu;
-
-[x] - O usuário deve poder visualizar uma nota única;
-
-[x] - O usuário deve poder visualizar todas as notas de acordo com uma tag específica;
+- [x] O usuário deve poder criar uma nova nota de filme;
+- [x] O usuário deve poder obter um resumo da sua nota;
+- [x] O usuário deve poder listar todas as notas que ja escreveu;
+- [x] O usuário deve poder visualizar uma nota única;
+- [x] O usuário deve poder visualizar todas as notas de acordo com uma tag específica;
 
 
 ## Requisitos não funcionais
 
-[x] - A nota do filme deve ter título, descrição, tags e uma nota de no máximo 5 pontos;
-
-[x] - Deve ser possivel identificarmos a nota pela sua tag;
-
-[x] - O usuário só pode visualizar as notas o qual ele criou;
+- [x] A nota do filme deve ter título, descrição, tags e uma nota de no máximo 5 pontos;
+- [x] Deve ser possivel identificarmos a nota pela sua tag;
+- [x] O usuário só pode visualizar as notas o qual ele criou;
